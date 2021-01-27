@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 # Hello, folks! <img src="https://raw.githubusercontent.com/ankitsuwal/ankitsuwal/main/wave.gif" width="30px">
 
-My name is Ankit Suwal and I'm a AI Engineer/Python Developer. I'm from India, living in Pune and currently working at Bharat Forge ltd. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Ankit Suwal and I'm a AI Engineer/Python Developer. I'm from India, living in Pune and currently working at Bharat Forge ltd. 
+You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -39,7 +40,7 @@ My name is Ankit Suwal and I'm a AI Engineer/Python Developer. I'm from India, l
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/ankitsuwal/ankitsuwal/main/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
