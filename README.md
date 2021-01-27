@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/ankitsuwal/ankitsuwal/main/wave.gif" width="30px">
+
 <!--
 **ankitsuwal/ankitsuwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">I'm Ankit</h1>
-<h3 align="center">A AI engineer from India 👨🏽‍💻</h3>
+# Hello, folks! <img src="https://raw.githubusercontent.com/ankitsuwal/ankitsuwal/main/wave.gif" width="30px">
+
+My name is Ankit Suwal and I'm a AI Engineer/Python Developer. I'm from India, living in Pune and currently working at Bharat Forge ltd. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
