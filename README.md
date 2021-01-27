@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Hello, folks! <img src="https://raw.githubusercontent.com/ankitsuwal/ankitsuwal/master/wave.gif" width="30px">
 <!--
 **ankitsuwal/ankitsuwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Ankit</h1>
+<h1 align="center">I'm Ankit</h1>
 <h3 align="center">A AI engineer from India 👨🏽‍💻</h3>
