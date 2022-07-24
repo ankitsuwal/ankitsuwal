@@ -1,59 +1,56 @@
+[//]: # (<!-- <h1 align="center">Hi 👋, I'm Ankit Suwal</h1> -->)
 
-<!--
-**ankitsuwal/ankitsuwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[//]: # (<div align="center">)
 
-Here are some ideas to get you started:
+[//]: # (<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, folks! <img src="https://raw.githubusercontent.com/ankitsuwal/ankitsuwal/main/wave.gif" width="30px">
-
-My name is Ankit Suwal and I'm a AI Engineer/Python Developer. I'm from India, living in Pune and currently working at Bharat Forge ltd. 
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+[//]: # (</div>)
+<h1 align="center">Hi 👋, I'm Ankit Suwal</h1>
+<p align="center">Enthusiastic <a href="">Python developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
+excellent organizational skills, a clear understanding of backend, frontend and project management.</p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsuwal" alt="ankitsuwal" /> </p>
+
+- 🔭 I’m currently working on Avyay Solutions
+- 📫 How to reach me **ankitsuwal@gmail.com**
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsuwal&show_icons=true" alt="pragativerma18" /></p>
 
+### Tech Stack
 
-<!-- links to social media icons -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<!-- icons with padding -->
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[//]: # (<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> )
+</p>
 
-<!-- icons without padding -->
+## Connect with me
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+<div align="center">
+<a href="https://github.com/ankitsuwal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AnkitSuwal" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/AnkitSuwal
-[2]: https://github.com/ankitsuwal
-[3]: https://www.linkedin.com/in/ankitsuwal/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<a href="https://stackoverflow.com/users/6706368/ats" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/ankitsuwal/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+</div>  
+  
